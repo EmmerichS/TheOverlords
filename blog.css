@@ -1,0 +1,35 @@
+/*CSS file for blog.html and all blogs*/
+
+.buttons {
+	color: #08EC08;
+	font-size: 30px;
+	top: 20px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+#buttonPlayers {
+	position: absolute;
+	right: 187px;
+}
+
+#buttonBlog {
+	position: absolute;
+	right: 50px;
+}
+
+#buttonHome {
+	position: absolute;
+	left: 50px;
+}
+
+#blogs {
+	position: absolute;
+	top: 30%;
+	left: 20%;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #08EC08;
+	text-decoration: none;
+
+}
